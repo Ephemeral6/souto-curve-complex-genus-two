@@ -48,7 +48,7 @@ such a region makes the link a cone. Simple connectivity is proved separately,
 following Souto, by factoring `C₀ ↪ C₁` through the contractible curve-and-arc
 complex of a once-marked surface.
 
-33 pages.
+34 pages.
 
 ## What this does not settle
 
@@ -71,6 +71,14 @@ Two conventions in §2 do real work and are part of the statement: all arc
 representatives are smooth, and a transverse pair is required to meet in a
 finite set — the latter is not implied by pointwise transversality, and §2.4
 gives a smooth counterexample.
+
+The simple connectivity statement (Theorem 1.3) is proved for every `g ≥ 2`, not
+only for genus two; it is the one result here that is not restricted to genus
+two. It relies on the contractibility of the *arc-and-curve* complex of a
+once-marked surface, which is the form in which Souto quotes Hatcher's theorem;
+Hatcher's printed statement is about systems of arcs, and Remark 7.4 of the
+manuscript records that the extension to systems containing closed curves, while
+standard, is not the printed statement. Nothing else in the paper depends on it.
 
 ## Status
 
