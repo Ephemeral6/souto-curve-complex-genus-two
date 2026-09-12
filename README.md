@@ -1,5 +1,15 @@
 # The complex of curves pairwise intersecting at most once is contractible in genus two
 
+## arXiv status — checked 13 September 2026
+
+**Not announced on arXiv; moderation appeal pending.** The submission was
+declined. A formal moderation appeal has been filed, and its current status
+is `Waiting for support`; no decision on the appeal has been received.
+
+There is no public arXiv article identifier for this work. The manuscript
+remains available in this repository as `souto-g2.pdf`. Further arXiv
+submission attempts are paused pending instructions from arXiv.
+
 **Guancheng Pan**
 
 A preprint on Souto's contractibility question for the $1$-curve complex in
